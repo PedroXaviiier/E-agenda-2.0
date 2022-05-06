@@ -25,5 +25,10 @@ namespace E_agenda_2._0
         {
             TelaTarefas.RepositorioTarefas.SalvarDados();
         }
+
+        public void BtnTarefa_Click()
+        {
+            
+        }
     }
 }
